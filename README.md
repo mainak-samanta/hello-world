@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi This Mainak.
+I am new to git.
